@@ -13,3 +13,4 @@ An optional `GEMINI_API_KEY` Vercel Environment Variable remains supported as a 
 
 ## Free usage
 Google AI Studio free-tier availability, model access, quotas, and rate limits are controlled by Google and may change. Long scripts are split into sequential requests; they are not unlimited and may take time.
+Deployment check for StoryVoice Gemini TTS.
